@@ -1,0 +1,7 @@
+{
+  "name": "safe-document-mcp",
+  "version": "1.0.0",
+  "description": "An MCP server that provides document summarization tools.",
+  "main": "server.js",
+  "type": "module"
+}
