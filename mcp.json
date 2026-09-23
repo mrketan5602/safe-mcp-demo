@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "document-summarizer": {
+      "command": "node",
+      "args": ["server.js"]
+    }
+  }
+}
